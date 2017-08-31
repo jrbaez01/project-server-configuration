@@ -2,7 +2,9 @@
 With this project I learned installing/configuring web and database servers. In this case I used Amazon Lightsail service to host one of my web application.
 
 DNS Address: http://ec2-18-220-184-184.us-east-2.compute.amazonaws.com
+
 IP Address: *18.220.184.184*
+
 SSH port: *2200*
 
 ## Summary of software I installed and configuration changes made.
